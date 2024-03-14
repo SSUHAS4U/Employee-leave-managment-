@@ -1,5 +1,4 @@
 # Employee-leave-managment
-Employee Leave Management System
 Employee Leave Management System is a web application built using the MERN stack to manage employee leave requests efficiently.
 
 Features
